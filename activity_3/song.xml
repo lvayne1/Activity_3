@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<songs>
+        <song code="USEV10900019">
+            <Title>Lucky</Title>
+            <Album>We sing. We dance. We steal things.</Album>
+            <Genre>Reggae, RnB, Indie, and Pop</Genre>
+            <Label>Singers:</Label>
+
+            <Singers>  
+            <Singer>Jason Mraz</Singer>
+            <Singer>Colbie Caillat</Singer>
+            </Singers> 
+            <!-- <ImagePath>
+                <image src="./images/1.png"alt="Song Image"/>
+            </ImagePath> -->
+        </song>
+        <song code="USUV72102187">
+            <Title>This is how you fall in love</Title>
+            <Album>Brent: live from the internet</Album>
+            <Genre>Pop</Genre>
+            <Label>Singers:</Label>
+            <Singers> 
+            
+            <Singer>Chelsea Cutler</Singer>
+            </Singers> 
+            <!-- <ImagePath>
+                <image src="./images/2.jpeg"alt="Song Image"/>
+            </ImagePath> -->
+        <Singer>Jeremy Zucker</Singer><Singer>Chelsea Cutler</Singer></song>
+        <song code="GBAHS1900717">
+            <Title>Best Part of Me</Title>
+            <Album>No. 6 Collaborations Project</Album>
+            <Genre>Pop and Hiphop</Genre>
+            <Label>Singers:</Label>
+            <Singers> 
+            <Singer>Ed Sheeran</Singer>
+            <Singer>YEBBA</Singer>
+            </Singers> 
+            <!-- <ImagePath> <image src="./images/3.png"alt="Song Image"> </ImagePath> -->
+        </song>
+        <song code="USCJY1231044">
+            <Title>Everything Has Changed</Title>
+            <Album>Red</Album>
+            <Genre>Folk Music and Pop</Genre>
+            <Label>Singers:</Label>
+            <Singers> 
+            <Singer>Taylor Swift</Singer>
+            <Singer>Ed Sheeran</Singer>
+            </Singers> 
+            <!-- <ImagePath> <image src="./images/4.png" alt="Song Image"> </ImagePath>  -->
+            
+        </song>
+        <song code="GBKPL1969288">
+            <Title>Mean It</Title>
+            <Album>How I'm Feeling</Album>
+            <Genre>Pop</Genre>
+            <Label>Singers:</Label>
+            <Singers> 
+            <Singer>Lauv</Singer>
+            <Singer>Lany</Singer>
+            </Singers> 
+            <!-- <ImagePath> <image src="./images/5.png"alt="Song Image"> </ImagePath> -->
+        </song>
+        <song code="USK4W0028151">
+            <Title>Marvin Gaye</Title>
+            <Album>Some Type of Love</Album>
+            <Genre>Doo-wop</Genre>
+            <Label>Singers:</Label>
+            <Singers> 
+            <Singer>Charlie Puth</Singer>
+            <Singer>Meghan Trainor</Singer>
+            </Singers> 
+            <!-- <ImagePath> <image src="./images/6.jpeg"alt="Song Image"></ImagePath> -->
+        </song>
+        <song code="GBHMU1500073">
+            <Title>Secret Love Song</Title>
+            <Album>Get Weird</Album>
+            <Genre>Pop</Genre>
+            <Label>Singers:</Label>
+            <Singers> 
+            <Singer>Little Mix</Singer>
+            <Singer>Jason Derulo</Singer>
+            </Singers> 
+            <!-- <ImagePath> <image src="./images/7.png" alt="Song Image"> </ImagePath> -->
+        </song>
+        
+        <song code="USUM72222487">
+            <Title>I Know What You Did Last Summer</Title>
+            <Album>Handwritten</Album>
+            <Genre>Pop</Genre>
+            <Label>Singers:</Label>
+            <Singers> 
+            <Singer>Shawn Mendes</Singer>
+            <Singer>Camila Cabello</Singer>
+            </Singers> 
+            <!-- <ImagePath> <image src="./images/9.png" alt="Song Image"> </ImagePath> -->
+        </song>
+        <song code="GBAHS2300348">
+            <Title>You and I</Title>
+            <Album>UNHEALTHY</Album>
+            <Genre>Pop</Genre>
+            <Label>Singers:</Label>
+            <Singers> 
+            <Singer>Anne-Marie</Singer>
+            <Singer>Khalid</Singer>
+            </Singers> 
+            <!-- <ImagePath> <image src="./images/10.jpeg"alt="Song Image"> </ImagePath> -->
+        </song> 
+            
+
+<song code="QQQQQ"><Title>QQQWWW</Title><Album>WWEEEE</Album><Genre>EERRR</Genre><Singers><Singer>RRTTTTTT</Singer><Singer>JJJJJJJ</Singer></Singers></song><song code="PORTYWAN"><Title>SROTY</Title><Album>QWERT</Album><Genre>POP</Genre><Singers><Singer>ME</Singer><Singer>NEiL</Singer></Singers></song><song code="Aadadasda"><Title>iulGiuyIUGI</Title><Album>IHGI</Album><Genre>GI</Genre><Singers><Singer>LI</Singer><Singer>SAD</Singer></Singers></song></songs>

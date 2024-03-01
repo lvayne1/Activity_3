@@ -1,0 +1,78 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #d4dfd1;
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100vh; /* Make the body full height of the viewport */
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    height: 60%;
+    padding: 20px;
+    background-color: #c2bcbc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    align-items: center;
+    justify-content: center;
+}
+
+.song-details {
+    width: 70%;
+    height: 70%;
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center; /* Center align all content */
+    justify-content: center;
+    align-items: center;
+    display: flex; /* Add display flex */
+    flex-direction: column;
+}
+
+
+form {
+    margin-top: 20px;
+    text-align: center; /* Center align all content */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+}
+
+button {
+    padding: 15px 30px; /* Increased padding for bigger size */
+    margin-right: 10px;
+    border: none;
+    background-color: #bacfb4;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.song-details p {
+    margin: 0;
+    padding: 5px 0;
+    font-size: 40px;
+    line-height: 1.6;
+}
+
+h2 {
+    font-size: 80px;
+    color: rebeccapurple;
+    margin: 20px;
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <Title>Add Song</Title>
+    <link rel="stylesheet" href="adds.css">
+</head>
+
+<body>
+    <div class="container">
+       
+        <form action="addsong.php" method="post" id="forms">
+            <h2>Add New Song</h2>
+            <label for="code">Code Number:</label><br>
+            <input type="text" id="code" name="code" required autocomplete="off"><br>
+            <label for="Title">Title:</label><br>
+            <input type="text" id="Title" name="Title" required autocomplete="off"><br>
+            <label for="Album">Album:</label><br>
+            <input type="text" id="Album" name="Album" required autocomplete="off"><br>
+            <label for="Genre">Genre:</label><br>
+            <input type="text" id="Genre" name="Genre" required autocomplete="off"><br>
+            <label for="Singers">Singers:</label><br>
+            <input type="text" id="Singers" name="Singers" required autocomplete="off"><br><br>
+            <button type="submit" name="addSong">Add Song</button>
+            <a href="display.php"><button type="button">Back</button></a>
+        </form>
+    </div>
+</body>
+
+</html>

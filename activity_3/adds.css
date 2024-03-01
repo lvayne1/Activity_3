@@ -1,0 +1,136 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #d4dfd1;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+
+
+
+.add-song-btn {
+    padding: 12px 20px;
+    background-color: #635a56;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.add-song-btn:hover {
+    background-color: #84b4e7;
+}
+
+
+.search-form {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.search-form input[type="text"] {
+    width: 250px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.search-form button {
+    padding: 12px 20px;
+    background-color: #677585;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.search-form button:hover {
+    background-color: #424549;
+}
+
+
+.song-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.song-table th,
+.song-table td {
+    padding: 12px;
+    border: 1px solid #ccc;
+}
+
+
+.add-song-form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Form */
+form {
+    background-color: #dbcece;
+    border-radius: 8px;
+    padding: 20px;
+  
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Form Labels */
+form label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+/* Form Inputs */
+form input[type="text"] {
+    width: 500px;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Form Button */
+form button {
+    width: 100%;
+    padding: 12px 20px;
+    background-color: #d8a869;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-bottom: 20px;
+
+}
+
+form button:last-child {
+    margin-right: 0; /* Remove margin from the last button */
+}
+
+form button:hover {
+    background-color: #302924;
+}
+
+
+form h2 {
+    text-align: center;
+    color: rgb(107, 66, 12);
+    margin-bottom: 20px; 
+}
+
